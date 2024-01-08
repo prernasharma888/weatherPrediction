@@ -1,6 +1,6 @@
-# Weather_show
-Made the Weather Show using the openweather API .
-Here, The Weather Show is the example of integration of an API with the website.
+# Weather_Prediction
+Made the Weather Prediction using the openweather API .
+Here, The Weather Prediction is the example of integration of an API with the website.
 Technologies we used to make this Integration Successfully are:  
 👉HTML  
 👉CSS  
@@ -8,4 +8,4 @@ Technologies we used to make this Integration Successfully are:
 👉JAVASCRIPT  
 👉WEATHER API
 
-Project Link : 
+Project Link : https://prernasharma888.github.io/weatherPrediction/
